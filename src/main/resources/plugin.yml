@@ -1,0 +1,6 @@
+name: Npc RL
+version: '${project.version}'
+main: org.shufygoth.npcrl.NpcRL
+
+commands:
+  npcrl:
